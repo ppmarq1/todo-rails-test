@@ -15,7 +15,7 @@ Update the existing code to provide the following functionality:
 
 These updates should be **_all your own work_**, and it does not need to be complicated.  Fewer tested features are preferred over many buggy features.
 
-**Good luck!**
+
 
 ## About the Code
 This application was built with the following specifications:
